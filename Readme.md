@@ -1,0 +1,2 @@
+My whitelisted address: 0x4c90F1201182c286b48352eEE8756132edbB3AB2
+SelfDestruct contract address: 0x652b99E46d98Aaa614a5Fa4935Aa281C6DC2ae6e
